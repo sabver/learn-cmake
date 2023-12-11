@@ -1,6 +1,17 @@
 .vscode/**
 Help/guide/tutorial/Step1_build/**
 Help/guide/tutorial/Step2_build/**
+Help/guide/tutorial/Step3_build/**
+Help/guide/tutorial/Step4_build/**
+Help/guide/tutorial/Step5_build/**
+Help/guide/tutorial/Step6_build/**
+Help/guide/tutorial/Step7_build/**
+Help/guide/tutorial/Step8_build/**
+Help/guide/tutorial/Step9_build/**
+Help/guide/tutorial/Step10_build/**
+Help/guide/tutorial/Step11_build/**
+Help/guide/tutorial/Step12_build/**
+Help/guide/tutorial/Complete_build/**
 
 # Compiled Object files
 **/.DS_Store
